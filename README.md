@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my project
-author-Amruta
+author-Amruta Ankad
